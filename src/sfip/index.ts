@@ -54,6 +54,8 @@ const obtConfigCommun = (): { [key: string]: any } => {
     config: {
       Addresses: {
         Swarm: [
+          // riff.cc test node
+          "/dns4/c.riff.cc/tcp/9090/wss/",
           // https://suda.pl/free-webrtc-star-heroku/
           "/dns4/arcane-springs-02799.herokuapp.com/tcp/443/wss/p2p-webrtc-star/",
           // https://github.com/LucaPanofsky/ipfs-wss-heroku-node
