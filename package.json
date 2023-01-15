@@ -1,7 +1,7 @@
 {
   "version": "0.6.4",
   "license": "AGPL-3.0-or-later",
-  "name": "@Zorlin/ipa",
+  "name": "@constl/ipa",
   "author": "Julien Jean Malard-Adam",
   "type": "module",
   "types": "./dist/index.d.ts",
